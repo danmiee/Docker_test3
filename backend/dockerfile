@@ -1,0 +1,8 @@
+# 설치된 자바파일을 기반으로 작성
+FROM openjdk:17-jdk-alpine
+# 컨테이너 내에서 파일을 저장하는 임시 디렉토리 설정
+VOLUME /tmp
+# jar파일 복사 - 복수개인 경우 반드시 폴더에 저장
+COPY ./build/libs/backend-0.0.1-SNAPSHOT.jar /app.jar
+# 컨테이너가 시작될 때 실행할 명령
+ENTRYPOINT ["java","-jar","/app.jar"]

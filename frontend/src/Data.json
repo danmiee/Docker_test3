@@ -1,0 +1,906 @@
+{  
+    "data" : [
+        {
+            "idx": 1,
+            "opening_price": 1.6555E7,
+            "high_price": 1.6818E7,
+            "low_price": 1.6252E7,
+            "trade_price": 1.676E7,
+            "candle_acc_trade_volume": 619.08854287,
+            "candle_date_time_kst": "2020-11-08 05:00:00"
+        },
+        {
+            "idx": 2,
+            "opening_price": 1.6752E7,
+            "high_price": 1.684E7,
+            "low_price": 1.6613E7,
+            "trade_price": 1.6677E7,
+            "candle_acc_trade_volume": 157.32031765,
+            "candle_date_time_kst": "2020-11-08 06:00:00"
+        },
+        {
+            "idx": 3,
+            "opening_price": 1.6686E7,
+            "high_price": 1.6688E7,
+            "low_price": 1.6508E7,
+            "trade_price": 1.6659E7,
+            "candle_acc_trade_volume": 189.72304009,
+            "candle_date_time_kst": "2020-11-08 07:00:00"
+        },
+        {
+            "idx": 4,
+            "opening_price": 1.6659E7,
+            "high_price": 1.6785E7,
+            "low_price": 1.6621E7,
+            "trade_price": 1.6647E7,
+            "candle_acc_trade_volume": 141.59754166,
+            "candle_date_time_kst": "2020-11-08 08:00:00"
+        },
+        {
+            "idx": 5,
+            "opening_price": 1.665E7,
+            "high_price": 1.69E7,
+            "low_price": 1.652E7,
+            "trade_price": 1.6898E7,
+            "candle_acc_trade_volume": 335.40423354,
+            "candle_date_time_kst": "2020-11-08 09:00:00"
+        },
+        {
+            "idx": 6,
+            "opening_price": 1.6888E7,
+            "high_price": 1.708E7,
+            "low_price": 1.68E7,
+            "trade_price": 1.704E7,
+            "candle_acc_trade_volume": 302.18591348,
+            "candle_date_time_kst": "2020-11-08 10:00:00"
+        },
+        {
+            "idx": 7,
+            "opening_price": 1.704E7,
+            "high_price": 1.71E7,
+            "low_price": 1.6899E7,
+            "trade_price": 1.6917E7,
+            "candle_acc_trade_volume": 243.47515601,
+            "candle_date_time_kst": "2020-11-08 11:00:00"
+        },
+        {
+            "idx": 8,
+            "opening_price": 1.6914E7,
+            "high_price": 1.6928E7,
+            "low_price": 1.6862E7,
+            "trade_price": 1.6869E7,
+            "candle_acc_trade_volume": 154.27725287,
+            "candle_date_time_kst": "2020-11-08 12:00:00"
+        },
+        {
+            "idx": 9,
+            "opening_price": 1.6867E7,
+            "high_price": 1.6914E7,
+            "low_price": 1.6815E7,
+            "trade_price": 1.6867E7,
+            "candle_acc_trade_volume": 112.64170147,
+            "candle_date_time_kst": "2020-11-08 13:00:00"
+        },
+        {
+            "idx": 10,
+            "opening_price": 1.6866E7,
+            "high_price": 1.6916E7,
+            "low_price": 1.6813E7,
+            "trade_price": 1.6882E7,
+            "candle_acc_trade_volume": 87.56100303,
+            "candle_date_time_kst": "2020-11-08 14:00:00"
+        },
+        {
+            "idx": 11,
+            "opening_price": 1.6906E7,
+            "high_price": 1.6909E7,
+            "low_price": 1.6796E7,
+            "trade_price": 1.6821E7,
+            "candle_acc_trade_volume": 124.26590782,
+            "candle_date_time_kst": "2020-11-08 15:00:00"
+        },
+        {
+            "idx": 12,
+            "opening_price": 1.6821E7,
+            "high_price": 1.6845E7,
+            "low_price": 1.6699E7,
+            "trade_price": 1.6734E7,
+            "candle_acc_trade_volume": 104.38757037,
+            "candle_date_time_kst": "2020-11-08 16:00:00"
+        },
+        {
+            "idx": 13,
+            "opening_price": 1.6736E7,
+            "high_price": 1.6847E7,
+            "low_price": 1.6691E7,
+            "trade_price": 1.6786E7,
+            "candle_acc_trade_volume": 100.41435166,
+            "candle_date_time_kst": "2020-11-08 17:00:00"
+        },
+        {
+            "idx": 14,
+            "opening_price": 1.6786E7,
+            "high_price": 1.686E7,
+            "low_price": 1.6755E7,
+            "trade_price": 1.6845E7,
+            "candle_acc_trade_volume": 87.3825185,
+            "candle_date_time_kst": "2020-11-08 18:00:00"
+        },
+        {
+            "idx": 15,
+            "opening_price": 1.6859E7,
+            "high_price": 1.704E7,
+            "low_price": 1.6812E7,
+            "trade_price": 1.7011E7,
+            "candle_acc_trade_volume": 158.34737118,
+            "candle_date_time_kst": "2020-11-08 19:00:00"
+        },
+        {
+            "idx": 16,
+            "opening_price": 1.7011E7,
+            "high_price": 1.704E7,
+            "low_price": 1.6913E7,
+            "trade_price": 1.6955E7,
+            "candle_acc_trade_volume": 112.97651066,
+            "candle_date_time_kst": "2020-11-08 20:00:00"
+        },
+        {
+            "idx": 17,
+            "opening_price": 1.6955E7,
+            "high_price": 1.7128E7,
+            "low_price": 1.6955E7,
+            "trade_price": 1.7078E7,
+            "candle_acc_trade_volume": 222.62534309,
+            "candle_date_time_kst": "2020-11-08 21:00:00"
+        },
+        {
+            "idx": 18,
+            "opening_price": 1.7071E7,
+            "high_price": 1.7106E7,
+            "low_price": 1.693E7,
+            "trade_price": 1.7028E7,
+            "candle_acc_trade_volume": 154.45342262,
+            "candle_date_time_kst": "2020-11-08 22:00:00"
+        },
+        {
+            "idx": 19,
+            "opening_price": 1.7028E7,
+            "high_price": 1.7131E7,
+            "low_price": 1.6986E7,
+            "trade_price": 1.713E7,
+            "candle_acc_trade_volume": 143.10138173,
+            "candle_date_time_kst": "2020-11-08 23:00:00"
+        },
+        {
+            "idx": 20,
+            "opening_price": 1.713E7,
+            "high_price": 1.723E7,
+            "low_price": 1.7102E7,
+            "trade_price": 1.7115E7,
+            "candle_acc_trade_volume": 245.77005758,
+            "candle_date_time_kst": "2020-11-09 00:00:00"
+        },
+        {
+            "idx": 21,
+            "opening_price": 1.7118E7,
+            "high_price": 1.7192E7,
+            "low_price": 1.709E7,
+            "trade_price": 1.7169E7,
+            "candle_acc_trade_volume": 61.44099257,
+            "candle_date_time_kst": "2020-11-09 01:00:00"
+        },
+        {
+            "idx": 22,
+            "opening_price": 1.7169E7,
+            "high_price": 1.737E7,
+            "low_price": 1.7158E7,
+            "trade_price": 1.7323E7,
+            "candle_acc_trade_volume": 205.9650587,
+            "candle_date_time_kst": "2020-11-09 02:00:00"
+        },
+        {
+            "idx": 23,
+            "opening_price": 1.7323E7,
+            "high_price": 1.7388E7,
+            "low_price": 1.7216E7,
+            "trade_price": 1.7325E7,
+            "candle_acc_trade_volume": 57.42836158,
+            "candle_date_time_kst": "2020-11-09 03:00:00"
+        },
+        {
+            "idx": 24,
+            "opening_price": 1.732E7,
+            "high_price": 1.7332E7,
+            "low_price": 1.7068E7,
+            "trade_price": 1.7131E7,
+            "candle_acc_trade_volume": 72.25330279,
+            "candle_date_time_kst": "2020-11-09 04:00:00"
+        },
+        {
+            "idx": 25,
+            "opening_price": 1.7131E7,
+            "high_price": 1.7235E7,
+            "low_price": 1.7127E7,
+            "trade_price": 1.7204E7,
+            "candle_acc_trade_volume": 47.57862762,
+            "candle_date_time_kst": "2020-11-09 05:00:00"
+        },
+        {
+            "idx": 26,
+            "opening_price": 1.7202E7,
+            "high_price": 1.7227E7,
+            "low_price": 1.708E7,
+            "trade_price": 1.7174E7,
+            "candle_acc_trade_volume": 40.3539318,
+            "candle_date_time_kst": "2020-11-09 06:00:00"
+        },
+        {
+            "idx": 27,
+            "opening_price": 1.7173E7,
+            "high_price": 1.734E7,
+            "low_price": 1.7165E7,
+            "trade_price": 1.7318E7,
+            "candle_acc_trade_volume": 102.5965982,
+            "candle_date_time_kst": "2020-11-09 07:00:00"
+        },
+        {
+            "idx": 28,
+            "opening_price": 1.7318E7,
+            "high_price": 1.734E7,
+            "low_price": 1.726E7,
+            "trade_price": 1.7297E7,
+            "candle_acc_trade_volume": 126.08237264,
+            "candle_date_time_kst": "2020-11-09 08:00:00"
+        },
+        {
+            "idx": 29,
+            "opening_price": 1.7276E7,
+            "high_price": 1.7378E7,
+            "low_price": 1.718E7,
+            "trade_price": 1.7316E7,
+            "candle_acc_trade_volume": 234.87804939,
+            "candle_date_time_kst": "2020-11-09 09:00:00"
+        },
+        {
+            "idx": 30,
+            "opening_price": 1.7321E7,
+            "high_price": 1.7374E7,
+            "low_price": 1.7244E7,
+            "trade_price": 1.7251E7,
+            "candle_acc_trade_volume": 170.10924953,
+            "candle_date_time_kst": "2020-11-09 10:00:00"
+        },
+        {
+            "idx": 31,
+            "opening_price": 1.7257E7,
+            "high_price": 1.7307E7,
+            "low_price": 1.7186E7,
+            "trade_price": 1.7222E7,
+            "candle_acc_trade_volume": 156.1920033,
+            "candle_date_time_kst": "2020-11-09 11:00:00"
+        },
+        {
+            "idx": 32,
+            "opening_price": 1.7229E7,
+            "high_price": 1.7238E7,
+            "low_price": 1.7146E7,
+            "trade_price": 1.7193E7,
+            "candle_acc_trade_volume": 128.63624946,
+            "candle_date_time_kst": "2020-11-09 12:00:00"
+        },
+        {
+            "idx": 33,
+            "opening_price": 1.7193E7,
+            "high_price": 1.72E7,
+            "low_price": 1.7121E7,
+            "trade_price": 1.7128E7,
+            "candle_acc_trade_volume": 135.97176088,
+            "candle_date_time_kst": "2020-11-09 13:00:00"
+        },
+        {
+            "idx": 34,
+            "opening_price": 1.7124E7,
+            "high_price": 1.72E7,
+            "low_price": 1.7054E7,
+            "trade_price": 1.7194E7,
+            "candle_acc_trade_volume": 159.42242327,
+            "candle_date_time_kst": "2020-11-09 14:00:00"
+        },
+        {
+            "idx": 35,
+            "opening_price": 1.7185E7,
+            "high_price": 1.7196E7,
+            "low_price": 1.7105E7,
+            "trade_price": 1.7118E7,
+            "candle_acc_trade_volume": 74.88955414,
+            "candle_date_time_kst": "2020-11-09 15:00:00"
+        },
+        {
+            "idx": 36,
+            "opening_price": 1.7118E7,
+            "high_price": 1.7163E7,
+            "low_price": 1.702E7,
+            "trade_price": 1.7036E7,
+            "candle_acc_trade_volume": 137.85095025,
+            "candle_date_time_kst": "2020-11-09 16:00:00"
+        },
+        {
+            "idx": 37,
+            "opening_price": 1.703E7,
+            "high_price": 1.716E7,
+            "low_price": 1.6908E7,
+            "trade_price": 1.7155E7,
+            "candle_acc_trade_volume": 279.25527747,
+            "candle_date_time_kst": "2020-11-09 17:00:00"
+        },
+        {
+            "idx": 38,
+            "opening_price": 1.7149E7,
+            "high_price": 1.7229E7,
+            "low_price": 1.7134E7,
+            "trade_price": 1.7182E7,
+            "candle_acc_trade_volume": 169.11517444,
+            "candle_date_time_kst": "2020-11-09 18:00:00"
+        },
+        {
+            "idx": 39,
+            "opening_price": 1.7175E7,
+            "high_price": 1.7256E7,
+            "low_price": 1.7171E7,
+            "trade_price": 1.7221E7,
+            "candle_acc_trade_volume": 130.26200061,
+            "candle_date_time_kst": "2020-11-09 19:00:00"
+        },
+        {
+            "idx": 40,
+            "opening_price": 1.7221E7,
+            "high_price": 1.755E7,
+            "low_price": 1.7203E7,
+            "trade_price": 1.7499E7,
+            "candle_acc_trade_volume": 396.81066804,
+            "candle_date_time_kst": "2020-11-09 20:00:00"
+        },
+        {
+            "idx": 41,
+            "opening_price": 1.7499E7,
+            "high_price": 1.7499E7,
+            "low_price": 1.7199E7,
+            "trade_price": 1.7311E7,
+            "candle_acc_trade_volume": 549.32726666,
+            "candle_date_time_kst": "2020-11-09 21:00:00"
+        },
+        {
+            "idx": 42,
+            "opening_price": 1.7313E7,
+            "high_price": 1.7337E7,
+            "low_price": 1.6908E7,
+            "trade_price": 1.7044E7,
+            "candle_acc_trade_volume": 592.02295022,
+            "candle_date_time_kst": "2020-11-09 22:00:00"
+        },
+        {
+            "idx": 43,
+            "opening_price": 1.7044E7,
+            "high_price": 1.7149E7,
+            "low_price": 1.68E7,
+            "trade_price": 1.6844E7,
+            "candle_acc_trade_volume": 345.19218615,
+            "candle_date_time_kst": "2020-11-09 23:00:00"
+        },
+        {
+            "idx": 44,
+            "opening_price": 1.6848E7,
+            "high_price": 1.697E7,
+            "low_price": 1.6788E7,
+            "trade_price": 1.685E7,
+            "candle_acc_trade_volume": 411.5629793,
+            "candle_date_time_kst": "2020-11-10 00:00:00"
+        },
+        {
+            "idx": 45,
+            "opening_price": 1.6848E7,
+            "high_price": 1.699E7,
+            "low_price": 1.6695E7,
+            "trade_price": 1.6985E7,
+            "candle_acc_trade_volume": 370.60574982,
+            "candle_date_time_kst": "2020-11-10 01:00:00"
+        },
+        {
+            "idx": 46,
+            "opening_price": 1.6985E7,
+            "high_price": 1.7088E7,
+            "low_price": 1.6912E7,
+            "trade_price": 1.7076E7,
+            "candle_acc_trade_volume": 108.51570381,
+            "candle_date_time_kst": "2020-11-10 02:00:00"
+        },
+        {
+            "idx": 47,
+            "opening_price": 1.7078E7,
+            "high_price": 1.7137E7,
+            "low_price": 1.7008E7,
+            "trade_price": 1.7137E7,
+            "candle_acc_trade_volume": 89.49244937,
+            "candle_date_time_kst": "2020-11-10 03:00:00"
+        },
+        {
+            "idx": 48,
+            "opening_price": 1.7137E7,
+            "high_price": 1.7247E7,
+            "low_price": 1.7095E7,
+            "trade_price": 1.7143E7,
+            "candle_acc_trade_volume": 99.34509975,
+            "candle_date_time_kst": "2020-11-10 04:00:00"
+        },
+        {
+            "idx": 49,
+            "opening_price": 1.7145E7,
+            "high_price": 1.726E7,
+            "low_price": 1.714E7,
+            "trade_price": 1.714E7,
+            "candle_acc_trade_volume": 61.34075199,
+            "candle_date_time_kst": "2020-11-10 05:00:00"
+        },
+        {
+            "idx": 50,
+            "opening_price": 1.714E7,
+            "high_price": 1.7199E7,
+            "low_price": 1.708E7,
+            "trade_price": 1.7125E7,
+            "candle_acc_trade_volume": 62.80685009,
+            "candle_date_time_kst": "2020-11-10 06:00:00"
+        },
+        {
+            "idx": 51,
+            "opening_price": 1.7124E7,
+            "high_price": 1.7151E7,
+            "low_price": 1.6989E7,
+            "trade_price": 1.6989E7,
+            "candle_acc_trade_volume": 155.9090364,
+            "candle_date_time_kst": "2020-11-10 07:00:00"
+        },
+        {
+            "idx": 52,
+            "opening_price": 1.6993E7,
+            "high_price": 1.7125E7,
+            "low_price": 1.6993E7,
+            "trade_price": 1.7106E7,
+            "candle_acc_trade_volume": 92.71813352,
+            "candle_date_time_kst": "2020-11-10 08:00:00"
+        },
+        {
+            "idx": 53,
+            "opening_price": 1.7106E7,
+            "high_price": 1.7123E7,
+            "low_price": 1.6958E7,
+            "trade_price": 1.7034E7,
+            "candle_acc_trade_volume": 194.10972878,
+            "candle_date_time_kst": "2020-11-10 09:00:00"
+        },
+        {
+            "idx": 54,
+            "opening_price": 1.7034E7,
+            "high_price": 1.7173E7,
+            "low_price": 1.7008E7,
+            "trade_price": 1.7172E7,
+            "candle_acc_trade_volume": 122.58901324,
+            "candle_date_time_kst": "2020-11-10 10:00:00"
+        },
+        {
+            "idx": 55,
+            "opening_price": 1.7169E7,
+            "high_price": 1.719E7,
+            "low_price": 1.709E7,
+            "trade_price": 1.709E7,
+            "candle_acc_trade_volume": 131.62255292,
+            "candle_date_time_kst": "2020-11-10 11:00:00"
+        },
+        {
+            "idx": 56,
+            "opening_price": 1.7094E7,
+            "high_price": 1.7097E7,
+            "low_price": 1.699E7,
+            "trade_price": 1.7065E7,
+            "candle_acc_trade_volume": 94.09130748,
+            "candle_date_time_kst": "2020-11-10 12:00:00"
+        },
+        {
+            "idx": 57,
+            "opening_price": 1.7065E7,
+            "high_price": 1.7135E7,
+            "low_price": 1.7058E7,
+            "trade_price": 1.7104E7,
+            "candle_acc_trade_volume": 98.04536381,
+            "candle_date_time_kst": "2020-11-10 13:00:00"
+        },
+        {
+            "idx": 58,
+            "opening_price": 1.7101E7,
+            "high_price": 1.7151E7,
+            "low_price": 1.7044E7,
+            "trade_price": 1.7082E7,
+            "candle_acc_trade_volume": 142.00197974,
+            "candle_date_time_kst": "2020-11-10 14:00:00"
+        },
+        {
+            "idx": 59,
+            "opening_price": 1.7082E7,
+            "high_price": 1.7105E7,
+            "low_price": 1.7005E7,
+            "trade_price": 1.7033E7,
+            "candle_acc_trade_volume": 106.1950293,
+            "candle_date_time_kst": "2020-11-10 15:00:00"
+        },
+        {
+            "idx": 60,
+            "opening_price": 1.7033E7,
+            "high_price": 1.7071E7,
+            "low_price": 1.6987E7,
+            "trade_price": 1.7013E7,
+            "candle_acc_trade_volume": 128.94826161,
+            "candle_date_time_kst": "2020-11-10 16:00:00"
+        },
+        {
+            "idx": 61,
+            "opening_price": 1.7011E7,
+            "high_price": 1.7176E7,
+            "low_price": 1.6982E7,
+            "trade_price": 1.7096E7,
+            "candle_acc_trade_volume": 209.73082875,
+            "candle_date_time_kst": "2020-11-10 17:00:00"
+        },
+        {
+            "idx": 62,
+            "opening_price": 1.7095E7,
+            "high_price": 1.7138E7,
+            "low_price": 1.707E7,
+            "trade_price": 1.7079E7,
+            "candle_acc_trade_volume": 110.96275357,
+            "candle_date_time_kst": "2020-11-10 18:00:00"
+        },
+        {
+            "idx": 63,
+            "opening_price": 1.7077E7,
+            "high_price": 1.713E7,
+            "low_price": 1.7049E7,
+            "trade_price": 1.7061E7,
+            "candle_acc_trade_volume": 136.47593322,
+            "candle_date_time_kst": "2020-11-10 19:00:00"
+        },
+        {
+            "idx": 64,
+            "opening_price": 1.7054E7,
+            "high_price": 1.7064E7,
+            "low_price": 1.6947E7,
+            "trade_price": 1.702E7,
+            "candle_acc_trade_volume": 199.29907693,
+            "candle_date_time_kst": "2020-11-10 20:00:00"
+        },
+        {
+            "idx": 65,
+            "opening_price": 1.702E7,
+            "high_price": 1.7116E7,
+            "low_price": 1.6965E7,
+            "trade_price": 1.7002E7,
+            "candle_acc_trade_volume": 157.80017116,
+            "candle_date_time_kst": "2020-11-10 21:00:00"
+        },
+        {
+            "idx": 66,
+            "opening_price": 1.7006E7,
+            "high_price": 1.7063E7,
+            "low_price": 1.6947E7,
+            "trade_price": 1.7056E7,
+            "candle_acc_trade_volume": 142.15904256,
+            "candle_date_time_kst": "2020-11-10 22:00:00"
+        },
+        {
+            "idx": 67,
+            "opening_price": 1.7056E7,
+            "high_price": 1.7068E7,
+            "low_price": 1.6923E7,
+            "trade_price": 1.6998E7,
+            "candle_acc_trade_volume": 129.23476285,
+            "candle_date_time_kst": "2020-11-10 23:00:00"
+        },
+        {
+            "idx": 68,
+            "opening_price": 1.6998E7,
+            "high_price": 1.7015E7,
+            "low_price": 1.6872E7,
+            "trade_price": 1.694E7,
+            "candle_acc_trade_volume": 156.6443186,
+            "candle_date_time_kst": "2020-11-11 00:00:00"
+        },
+        {
+            "idx": 69,
+            "opening_price": 1.694E7,
+            "high_price": 1.7025E7,
+            "low_price": 1.6907E7,
+            "trade_price": 1.6987E7,
+            "candle_acc_trade_volume": 80.23535059,
+            "candle_date_time_kst": "2020-11-11 01:00:00"
+        },
+        {
+            "idx": 70,
+            "opening_price": 1.6993E7,
+            "high_price": 1.709E7,
+            "low_price": 1.6989E7,
+            "trade_price": 1.7055E7,
+            "candle_acc_trade_volume": 56.24594357,
+            "candle_date_time_kst": "2020-11-11 02:00:00"
+        },
+        {
+            "idx": 71,
+            "opening_price": 1.7055E7,
+            "high_price": 1.7073E7,
+            "low_price": 1.6969E7,
+            "trade_price": 1.7021E7,
+            "candle_acc_trade_volume": 16.4557716,
+            "candle_date_time_kst": "2020-11-11 03:00:00"
+        },
+        {
+            "idx": 72,
+            "opening_price": 1.7042E7,
+            "high_price": 1.7093E7,
+            "low_price": 1.7024E7,
+            "trade_price": 1.7036E7,
+            "candle_acc_trade_volume": 19.64179486,
+            "candle_date_time_kst": "2020-11-11 04:00:00"
+        },
+        {
+            "idx": 73,
+            "opening_price": 1.7057E7,
+            "high_price": 1.7076E7,
+            "low_price": 1.7031E7,
+            "trade_price": 1.7031E7,
+            "candle_acc_trade_volume": 17.41174829,
+            "candle_date_time_kst": "2020-11-11 05:00:00"
+        },
+        {
+            "idx": 74,
+            "opening_price": 1.7031E7,
+            "high_price": 1.712E7,
+            "low_price": 1.7027E7,
+            "trade_price": 1.7101E7,
+            "candle_acc_trade_volume": 70.97030775,
+            "candle_date_time_kst": "2020-11-11 06:00:00"
+        },
+        {
+            "idx": 75,
+            "opening_price": 1.7119E7,
+            "high_price": 1.713E7,
+            "low_price": 1.7055E7,
+            "trade_price": 1.7081E7,
+            "candle_acc_trade_volume": 58.39180827,
+            "candle_date_time_kst": "2020-11-11 07:00:00"
+        },
+        {
+            "idx": 76,
+            "opening_price": 1.7082E7,
+            "high_price": 1.7094E7,
+            "low_price": 1.7003E7,
+            "trade_price": 1.7035E7,
+            "candle_acc_trade_volume": 76.75711892,
+            "candle_date_time_kst": "2020-11-11 08:00:00"
+        },
+        {
+            "idx": 77,
+            "opening_price": 1.7035E7,
+            "high_price": 1.72E7,
+            "low_price": 1.7009E7,
+            "trade_price": 1.717E7,
+            "candle_acc_trade_volume": 252.11907478,
+            "candle_date_time_kst": "2020-11-11 09:00:00"
+        },
+        {
+            "idx": 78,
+            "opening_price": 1.7179E7,
+            "high_price": 1.7192E7,
+            "low_price": 1.7117E7,
+            "trade_price": 1.7131E7,
+            "candle_acc_trade_volume": 126.81799558,
+            "candle_date_time_kst": "2020-11-11 10:00:00"
+        },
+        {
+            "idx": 79,
+            "opening_price": 1.7133E7,
+            "high_price": 1.7144E7,
+            "low_price": 1.7065E7,
+            "trade_price": 1.7111E7,
+            "candle_acc_trade_volume": 145.62992136,
+            "candle_date_time_kst": "2020-11-11 11:00:00"
+        },
+        {
+            "idx": 80,
+            "opening_price": 1.7089E7,
+            "high_price": 1.7133E7,
+            "low_price": 1.7087E7,
+            "trade_price": 1.7107E7,
+            "candle_acc_trade_volume": 64.58141413,
+            "candle_date_time_kst": "2020-11-11 12:00:00"
+        },
+        {
+            "idx": 81,
+            "opening_price": 1.7126E7,
+            "high_price": 1.7139E7,
+            "low_price": 1.7063E7,
+            "trade_price": 1.7081E7,
+            "candle_acc_trade_volume": 110.97546671,
+            "candle_date_time_kst": "2020-11-11 13:00:00"
+        },
+        {
+            "idx": 82,
+            "opening_price": 1.7074E7,
+            "high_price": 1.7086E7,
+            "low_price": 1.7045E7,
+            "trade_price": 1.7075E7,
+            "candle_acc_trade_volume": 89.87730682,
+            "candle_date_time_kst": "2020-11-11 14:00:00"
+        },
+        {
+            "idx": 83,
+            "opening_price": 1.7072E7,
+            "high_price": 1.7086E7,
+            "low_price": 1.7021E7,
+            "trade_price": 1.7024E7,
+            "candle_acc_trade_volume": 107.35174984,
+            "candle_date_time_kst": "2020-11-11 15:00:00"
+        },
+        {
+            "idx": 84,
+            "opening_price": 1.7024E7,
+            "high_price": 1.7081E7,
+            "low_price": 1.702E7,
+            "trade_price": 1.7075E7,
+            "candle_acc_trade_volume": 216.17823865,
+            "candle_date_time_kst": "2020-11-11 16:00:00"
+        },
+        {
+            "idx": 85,
+            "opening_price": 1.7061E7,
+            "high_price": 1.7117E7,
+            "low_price": 1.7036E7,
+            "trade_price": 1.7058E7,
+            "candle_acc_trade_volume": 185.64955352,
+            "candle_date_time_kst": "2020-11-11 17:00:00"
+        },
+        {
+            "idx": 86,
+            "opening_price": 1.7058E7,
+            "high_price": 1.713E7,
+            "low_price": 1.7055E7,
+            "trade_price": 1.7076E7,
+            "candle_acc_trade_volume": 166.27324206,
+            "candle_date_time_kst": "2020-11-11 18:00:00"
+        },
+        {
+            "idx": 87,
+            "opening_price": 1.7076E7,
+            "high_price": 1.7229E7,
+            "low_price": 1.7074E7,
+            "trade_price": 1.7229E7,
+            "candle_acc_trade_volume": 183.87705894,
+            "candle_date_time_kst": "2020-11-11 19:00:00"
+        },
+        {
+            "idx": 88,
+            "opening_price": 1.723E7,
+            "high_price": 1.733E7,
+            "low_price": 1.7176E7,
+            "trade_price": 1.7272E7,
+            "candle_acc_trade_volume": 341.98336921,
+            "candle_date_time_kst": "2020-11-11 20:00:00"
+        },
+        {
+            "idx": 89,
+            "opening_price": 1.7265E7,
+            "high_price": 1.733E7,
+            "low_price": 1.7203E7,
+            "trade_price": 1.729E7,
+            "candle_acc_trade_volume": 221.94759133,
+            "candle_date_time_kst": "2020-11-11 21:00:00"
+        },
+        {
+            "idx": 90,
+            "opening_price": 1.7287E7,
+            "high_price": 1.7399E7,
+            "low_price": 1.7239E7,
+            "trade_price": 1.7257E7,
+            "candle_acc_trade_volume": 291.41101697,
+            "candle_date_time_kst": "2020-11-11 22:00:00"
+        },
+        {
+            "idx": 91,
+            "opening_price": 1.725E7,
+            "high_price": 1.7329E7,
+            "low_price": 1.7223E7,
+            "trade_price": 1.7288E7,
+            "candle_acc_trade_volume": 168.32669912,
+            "candle_date_time_kst": "2020-11-11 23:00:00"
+        },
+        {
+            "idx": 92,
+            "opening_price": 1.7295E7,
+            "high_price": 1.736E7,
+            "low_price": 1.7265E7,
+            "trade_price": 1.7347E7,
+            "candle_acc_trade_volume": 104.45824173,
+            "candle_date_time_kst": "2020-11-12 00:00:00"
+        },
+        {
+            "idx": 93,
+            "opening_price": 1.7351E7,
+            "high_price": 1.7494E7,
+            "low_price": 1.7312E7,
+            "trade_price": 1.7389E7,
+            "candle_acc_trade_volume": 225.62442703,
+            "candle_date_time_kst": "2020-11-12 01:00:00"
+        },
+        {
+            "idx": 94,
+            "opening_price": 1.7392E7,
+            "high_price": 1.755E7,
+            "low_price": 1.7366E7,
+            "trade_price": 1.7468E7,
+            "candle_acc_trade_volume": 232.15160207,
+            "candle_date_time_kst": "2020-11-12 02:00:00"
+        },
+        {
+            "idx": 95,
+            "opening_price": 1.7468E7,
+            "high_price": 1.7563E7,
+            "low_price": 1.7409E7,
+            "trade_price": 1.7459E7,
+            "candle_acc_trade_volume": 161.77262673,
+            "candle_date_time_kst": "2020-11-12 03:00:00"
+        },
+        {
+            "idx": 96,
+            "opening_price": 1.7459E7,
+            "high_price": 1.75E7,
+            "low_price": 1.737E7,
+            "trade_price": 1.7474E7,
+            "candle_acc_trade_volume": 56.36753064,
+            "candle_date_time_kst": "2020-11-12 04:00:00"
+        },
+        {
+            "idx": 97,
+            "opening_price": 1.7474E7,
+            "high_price": 1.748E7,
+            "low_price": 1.7312E7,
+            "trade_price": 1.7413E7,
+            "candle_acc_trade_volume": 90.15256084,
+            "candle_date_time_kst": "2020-11-12 05:00:00"
+        },
+        {
+            "idx": 98,
+            "opening_price": 1.7399E7,
+            "high_price": 1.7483E7,
+            "low_price": 1.733E7,
+            "trade_price": 1.7478E7,
+            "candle_acc_trade_volume": 64.19584803,
+            "candle_date_time_kst": "2020-11-12 06:00:00"
+        },
+        {
+            "idx": 99,
+            "opening_price": 1.7483E7,
+            "high_price": 1.76E7,
+            "low_price": 1.747E7,
+            "trade_price": 1.75E7,
+            "candle_acc_trade_volume": 229.63663975,
+            "candle_date_time_kst": "2020-11-12 07:00:00"
+        },
+        {
+            "idx": 100,
+            "opening_price": 1.7499E7,
+            "high_price": 1.7505E7,
+            "low_price": 1.7425E7,
+            "trade_price": 1.7439E7,
+            "candle_acc_trade_volume": 131.7618965,
+            "candle_date_time_kst": "2020-11-12 08:00:00"
+        }
+    ]
+}
+
+   

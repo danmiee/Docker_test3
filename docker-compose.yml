@@ -1,0 +1,22 @@
+version: '3'
+
+services:
+  react:
+    container_name: react
+    image: 'upcoderk/react-image'
+    build:
+      # 프로젝트명과 일치하게 작성
+      context: frontend
+      dockerfile: dockerfile
+    ports:
+      - 3000:3000
+
+  spring:
+    container_name: spring
+    image: 'upcoderk/myapp'
+    build:
+      # 프로젝트명과 일치하게 작성
+      context: backend
+      dockerfile: dockerfile
+    ports:
+      - 8080:8080
